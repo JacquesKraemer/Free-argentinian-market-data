@@ -17,11 +17,3 @@ The repository includes three Jupyter Notebook (`.ipynb`) files, each highlighti
 - Explore market panels grouped by relevant characteristics, such as Merval, sovereign bonds, dollar-linked bonds, and more.
 
 ---
-
-## Additional Resource
-
-This repository also includes a **PDF guide** designed for those who are just starting with programming. In this document, I explain in simple terms:
-- What an API is and how it works.
-- The thought process behind each of the three notebooks mentioned above.
-
-Feel free to explore the notebooks and the guide to enhance your understanding.
